@@ -29,13 +29,13 @@ The Student Registration System is a web application that allows users to add, e
 Clone the project
 
 ```bash
-  
+  git clone https://github.com/Labib000/SmartEnroll.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd SmartEnroll
 ```
 
 Open the index.html file in your browser.
